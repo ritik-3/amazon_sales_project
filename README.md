@@ -8,8 +8,7 @@
 5. [Analysis](#analysis)
 6. [Results](#results)
 7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
+8. [Contact](#contact)
 
 ## Introduction
 This project involves an in-depth analysis of Amazon India sales data from March 31st, 2022, to June 29th, 2022. The goal is to identify trends, evaluate performance, and provide strategic insights for business optimization.
