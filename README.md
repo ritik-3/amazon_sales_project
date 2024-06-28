@@ -38,11 +38,17 @@ To get started with this project, follow these steps:
     ```
 
 ## Usage
-1. Ensure you have the dataset available in the `data/` directory.
-2. Run the analysis scripts to perform various analyses on the dataset:
+1. Ensure you have the dataset available in the `data/` directory. If you haven't uploaded the dataset, you can do so by following the steps above.
+2. Install Jupyter if you haven't already:
     ```sh
-    python analysis_script.py
+    pip install jupyter
     ```
+3. Run the Jupyter Notebook:
+    ```sh
+    jupyter notebook amz_sales_proj.ipynb
+    ```
+4. This will open the Jupyter Notebook interface in your web browser. From there, you can run the cells in the notebook to perform the analysis.
+
 
 ## Analysis
 The analysis is divided into several parts:
