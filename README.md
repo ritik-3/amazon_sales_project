@@ -8,7 +8,8 @@
 5. [Analysis](#analysis)
 6. [Results](#results)
 7. [Contributing](#contributing)
-8. [Contact](#contact)
+8. [License](#license)
+9. [Contact](#contact)
 
 ## Introduction
 This project involves an in-depth analysis of Amazon India sales data from March 31st, 2022, to June 29th, 2022. The goal is to identify trends, evaluate performance, and provide strategic insights for business optimization.
@@ -72,6 +73,10 @@ Contributions are welcome! Please follow these steps to contribute:
 3. Make your changes and commit them (`git commit -m 'Add your feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 For any questions or inquiries, please contact [Ritik Sunil Khapre](mailto:ritik.khapre5202.com).
